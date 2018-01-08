@@ -1,11 +1,3 @@
-#Ödev Dönüş Tarihi
-**Ödev dönüş tarihi 10 Ocak 2018 Çarşamba günüdür.** Yapacağınız IYPT projeniz ikinci dönemde de devam edecektir. Projenin bütünüyle tamamlanma tarihi 10 Mayıs 2017'dir. 
-
-# Ödev-2 Yönergeleri 
-1. Odev2'yi grup hesabınıza fork ediniz. 
-2. Aşağıdaki açıklamaları izleyerek kendi hesabınıza fork ettiğiniz Odev2'yi değiştiriniz. 
-3. Dosyayı değiştirmek için ya "Github" içindeki kalem sekmesini kullanabilirsiniz. 
-
 ## Yapılacak İşlemler
 Bu hafta projenizle ilgili olarak deneylere başlayacaksanız. Biran önce deneylere başlamanız, projenizde ortaya 
 çıkabilecek sorunlar hakkında tedbir almanızı sağlayacaktır. Bu hafta basit deney malzemeleri kullanarak deneyinizi
@@ -20,10 +12,34 @@ Daha kapsamlı bir ödev için daha önce yapılmış
 2. Yaptığınız çalışmaların foğtaraflarını ve videolarınızı çekmeniz gerekecek. Gerektiğinde çizimler yapacaksınız. Odev2 deposunun içinde "pic" ve "video" diye bir dizin açılmıştır. Deney sırasında çektiğiniz resimler, deney grafiklerini "pic" dizini içinde saklayacaksınız. Çektiğiniz video'ları ise "video" dizini içinde saklayacaksınız. 
 3. Yapacağınız deney seçtiğiniz konuya yakın olmalıdır. Deney başaralı veya başarısız da olabilir. Önemli olan bir deney yapmanız ve bu deneyin videosunu ve resimlerini github hesabına yüklemeniz gerekmektedir. 
 
-## Aşağıdaki Başlıkları İçini Doldurunuz. (Özet kısmını daha önce yazmıştınız.) 
 
 # Özet (Abstract)
-Buraya Ödev-1'de yazdığınız özeti yazınız. 
+Bu projede tüp, zar, ana gövde ve üfleme deliğinden oluşan basit bir kornalar yapılıp değişken parametrelerin(zarın kalınlığı, ana gövdenin yapıldığı madde, üfleme deliğinin büyüklüğü gibi) kornadan çıkan seste etkisi (frekans, gürlük vs) araştırmak amaçlanmıştır.
+
+Kornanın yapısı Kornadaki tüp, ana gövdenin içinden hava deliği ve tüpün ağız kısmı dışında hava aldırmayacak şekilde geçip, bir ucu zarın üzerinde belirli bir gerilim yaratacak şekilde bitişik olacaktır.
+
+Üfleme deliği ana gövdenin üzerinde açılmış bir boşluktan ibarettir.
+
+Zar, ana gövdenin diğer(tüpün geçtiği kısmın karşısındaki) uca gergin bir biçimde sabitlenmiştir.
+
+Parametrelerin incelenmesi için kullanılacak yöntemler Sesi etkileyeceği düşünülen parametreler aşağıda sıralanmıştır:
+
+-Zarın, gövdenin ve tüpün kalınlığı
+
+-Üfleme deliğinin büyüklüğü
+
+-Üfleme deliğinin tüp ucuna yakınlığı/uzaklığı
+
+-Zarın, gövdenin ve tüpün yapıldığı maddeler
+
+-Zarın gerginliği
+
+-Tüpün ve ana gövdenin yarıçapları
+
+-Üflemenin gücü
+
+Bu parametrelerin incelenmesi için kontrol ve deney grubu olarak kornaların ayrılıp kornalardan çıkan sesler kaydedilecek, bilgisayar ortamında sesler Audacity isimli program kullanılarak analiz edilerek sesin frekans, gürlük gibi özelliklerine göre grafik ve tablolar oluşturulacak, buna göre sesi etkileyen/etkilemeyen unsurlar rapor edilecektir.
+
 # Giriş (Introduction)
 Bu bölüm; 
 literatür
