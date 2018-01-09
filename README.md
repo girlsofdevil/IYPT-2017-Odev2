@@ -41,7 +41,7 @@ Deneyde kullanılan malzemeler:
 
 *Standart(200ml) karton bardaklar 
 
-*Terzi Makası
+*Terzi makası
 
 *Balon
 
