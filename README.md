@@ -29,6 +29,7 @@ Bu parametrelerin incelenmesi için kontrol ve deney grubu olarak kornaların ay
 Balondan bir korna yapma fikri, hem kornanın çalışma yönteminin ilgi uyandırıcı olup hem yapması kolay ve uygulaması gözlemsel olduğu için kararlaştırılmıştır.
 
 Bu çalışmamızla ilgili internette pek örnek olmamasına rağmen ödev gereği bir IYPT sorusu olduğundan geçmiş yıllarda katılımcılar tarafından tekrarlanmış bir deneydir.
+
 # Materyal ve Yöntem (Experimental Setup)
 Bu çalışmada kullanılan yöntem şu şekildedir:
 
@@ -37,14 +38,21 @@ Bu çalışmada kullanılan yöntem şu şekildedir:
 Deneyin yapıldığı ortam temiz bir masa ve üzerinde deney için gerekli malzemelerden ibarettir.
 
 Deneyde kullanılan malzemeler:
+
 *Standart(200ml) karton bardaklar 
+
 *Terzi Makası
+
 *Balon
+
 *Bant
+
 *0,5 cm çapında pipet
+
 dir.
 
 Kornaların yapılış şekli:
+
 Kornalar bir karton bardağa(ana gövde) bir ağzına balon(zar) gerdirip diğer ucundan hiçbir hava boşluğu kalmayacak bir şekilde boru(pipet) geçirilerek yapılır, bu borunun zara gergin bir biçimde değmesi gerekmektedir. Aynı zamanda hava girişi için ana gövde de ufak bir boşluk açılır.
 
 # Bulgular (Results)
